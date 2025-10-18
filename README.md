@@ -1,4 +1,4 @@
-Technical Documentation for HaHaHubBot
+Technical Documentation for HaHaHubBot (@ha_ha_hub_bot)
 
 1. Introduction
 This document describes the work of a Telegram bot. The bot's name is "HaHaHubBot". The main goal of this bot is to find and send memes to users. Users can search for memes using categories or specific words. The primary audience for this Meme Bot is general Telegram users looking for quick entertainment. The bot is designed for young people familiar with internet meme culture, users seeking content for a specific mood, and those who prefer simple button-based navigation over typing commands. Essentially, it serves anyone who wants to find and share relevant memes instantly without any complexity.
